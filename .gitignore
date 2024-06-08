@@ -1,0 +1,6 @@
+# Es obviar o pasar por alto archivos que nosotros decidamos no queremos poner en nuestra app
+
+
+.vscode
+
+default-image.jpg
